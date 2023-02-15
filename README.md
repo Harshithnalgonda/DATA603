@@ -3,6 +3,7 @@ CAMPUS ID : ZF58419
 
 
 Q1)
+
 Big data refers to the massive volumes of data that cannot be processed or analyzed through traditional data processing methods. It involves the collection, storage, and analysis of huge data sets, often from multiple sources, to uncover patterns and insights that can be used to improve decision-making.
 
 Examples of big data include:
@@ -40,6 +41,7 @@ The 6 'V's of big data refer to the six key characteristics of large, complex, a
 Variability: Variability refers to the dynamic nature of data. Data can be inconsistent, incomplete, and constantly changing, making it difficult to process and analyze.
 
 Q3)
+
 The following are the phases of big data analysis:
 
 -Data Acquisition: In this phase, the data is collected from various sources such as social media, sensors, and other data sources. The data acquisition process should be automated and designed to ensure data quality and accuracy.
